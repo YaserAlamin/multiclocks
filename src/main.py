@@ -1,7 +1,12 @@
 '''
 Created on 6 abr. 2022
 
-@author: yr.ala
+@author: yaser alamin  
+
+clocks for mutliClocks and fining time in different location in the world 
+
+to make set up meeting easier 
+
 '''
 
 import time
